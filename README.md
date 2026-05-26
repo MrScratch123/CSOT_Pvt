@@ -1,7 +1,6 @@
 # DevClub Summer of Code 2026: Game Development Track
 
 ## Introduction
-***
 Hello there! Welcome to the game dev track for CSOT! 
 Over the next 5 weeks you will learn how to make games by making multiple amazing and fun games 
 using the Unity engine. We will provide you with resources and guide you every step of the way. 
