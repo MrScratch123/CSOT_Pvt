@@ -29,8 +29,6 @@ I think a big reason to choose Game Development is because it sits right at the 
 * UI: Making main menus, Score UI etc.
 * 
 <img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/85b834be-7535-48d9-a6c4-d3baf33de388" />
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/300d8fc8-979e-4b8f-809c-0b95f8208fd7" />
-
 
 ## Game plan -
 
