@@ -19,3 +19,6 @@ https://youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&si=1baC7Nun
 
 Audio Tutorial - 
 https://www.youtube.com/watch?v=6OT43pvUyfY
+
+# Submission
+* Details will be out in the end of week.
