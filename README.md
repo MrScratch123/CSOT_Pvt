@@ -7,9 +7,17 @@ Over the next 5 weeks you will learn how to make games by making multiple amazin
 using the Unity engine. We will provide you with resources and guide you every step of the way. 
 Hopefully, you will come out of this with newfound skills and a confidence to execute any new creative ideas you might have.
 
+<img width="370" height="136" alt="image" src="https://github.com/user-attachments/assets/9083a17f-b06d-4408-83e0-686cc52b5542" />
+<img width="3840" height="2063" alt="image" src="https://github.com/user-attachments/assets/980bd907-6460-4551-8d5f-84023517137f" />
+
+
+
 ## Why Game Development?
 
 I think a big reason to choose Game Development is because it sits right at the junction between Engineering and Art - there is something for everyone here. There is a bunch of systems engineering and problem solving involved, along with creative skills like music prod, 3D modelling, 2D art etc. You can sit for hours implementing greedy meshing to optimize your voxel engine or you can create massive beautiful open worlds for the player to explore. You create a whole new world to convey emotions and experiences you want to, or can create lag compensation systems for multiplayer shooters. The possibilities are endless and creative. 
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1a7b1af0-60ae-4409-bfbb-cbe6ee9a7f25" />
+<img width="300" height="162" alt="image" src="https://github.com/user-attachments/assets/790be736-9f72-4d8b-982a-fb806059c0c0" />
 
 
 ## Skills you can expect to learn from this-
