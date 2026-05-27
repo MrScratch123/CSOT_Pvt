@@ -8,7 +8,7 @@ using the Unity engine. We will provide you with resources and guide you every s
 Hopefully, you will come out of this with newfound skills and a confidence to execute any new creative ideas you might have.
 
 <img width="370" height="136" alt="image" src="https://github.com/user-attachments/assets/9083a17f-b06d-4408-83e0-686cc52b5542" />
-<img width="3840" height="2063" alt="image" src="https://github.com/user-attachments/assets/980bd907-6460-4551-8d5f-84023517137f" />
+<img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/980bd907-6460-4551-8d5f-84023517137f" />
 
 
 
@@ -27,6 +27,9 @@ I think a big reason to choose Game Development is because it sits right at the 
 * Working with 3D: working in 3D environments, basics of lighting, fog, 3D terrain, 3D models, textures, materials, rigidbody physics.
 * Game systems: Monobehaviours, game objects and components, scenes, prefabs, game loops, singletons, some intro to game architectures.
 * UI: Making main menus, Score UI etc.
+* 
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/85b834be-7535-48d9-a6c4-d3baf33de388" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/300d8fc8-979e-4b8f-809c-0b95f8208fd7" />
 
 
 ## Game plan -
