@@ -40,7 +40,11 @@ Lets do this in bullet points -
 * As the weeks come by, we will have polls to decide what people actually want to make. We believe the best and really the only way to learn game dev is by making games you want to so thats how we will go.
 * In the final week, we will host our very own **CSOT Game Jam!** Here, you will be provided with an abstract theme and its your job to brainstorm a creative new game based on the theme(s) and implement it within the week and submit it to us to judge.
 
-More details on the points system will be shared soon.
+### Point System - 
+* Every week will have some points associated with it, revealed in the week readme.
+* Points will be given for completing the tasks given to you. The harder the task the more the points.
+* For each week you have to submit a video demonstrating every feature of the game, and every challenge completed clearly, and have to post it on the whatsapp group.
+* The final game jam will not have any learning material, but only one (or multiple) themes, and the game will have to be submitted as an executable on a link shared during the jam.
 
 
 ### A small disclaimer on AI.
