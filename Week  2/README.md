@@ -78,7 +78,9 @@ First learn about post processing ->
 https://www.youtube.com/watch?v=9tjYz6Ab0oc
 
 Now, for everyone's favourite, unity's particle system!
+
 ![alt text](image.png)
+
 https://www.youtube.com/watch?v=0HKSvT2gcuk
 
 Also you can learn about the animation system here ->
