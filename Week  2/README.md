@@ -38,6 +38,9 @@ Look into all the cool vector3 and quaternion functions unity provides, by looki
 
 Hopefully, we now have a simple top down player controller, that looks at your mouse. 
 
+#### Points
+* 10 for a working top down player controller
+
 
 ### 2. Basic Shooting Mechanics 
 
@@ -47,6 +50,9 @@ Now have two options and either is fine ->
 * Or, you can create a raycast from the screen mouse position to the world using and then make the player's gun point at that.
 
 For the shooting itself, you can use raycasting, or you can make bullets by instantiating game objects, and making them move forwards.
+
+#### Points 
+* 10 for working shooting mechanics
 
 ### 3. Enemies, Health and Damage.
 
@@ -61,6 +67,10 @@ A fun video by brackeys :P (https://www.youtube.com/watch?v=G9Otw12OUvE)
 * Add health to the enemies, and make the player hits damage them. (raycast hit, or collider enter).
 * Make a way for enemies to damage you as well, by creating a health system for the player. You can make the enemies melee, or give them guns!
 
+#### Points 
+* 10 for a basic working enemy that damages the player.
+
+
 ### 4. Setup your game loop
 
 
@@ -69,6 +79,12 @@ A fun video by brackeys :P (https://www.youtube.com/watch?v=G9Otw12OUvE)
 * Make the game as your heart desires (single or multiple maps, wave systems, boss fights, exploration based etc.)
 * Make a proper way to handle player death (you can reset the level, make spawnpoints etc)
 * Add a clean finishing/win state (Try not to make an infinite game this time.). 
+
+#### Points 
+* 10 points for main menu
+* 5-10 points for every map that is different enough from other maps, depening upon the effort put into the map
+* 10 points for a wave system
+* 20 points for a boss fight
 
 ### 5. Decoration. 
 
@@ -87,7 +103,9 @@ Also you can learn about the animation system here ->
 (No need to go through the entire series, you can pickup concepts from what you want to make.)
 https://www.youtube.com/watch?v=-FhvQDqmgmU&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
 
-
+##### Points 
+* 5 for Particles
+* 20 for animations.
 
 
 And that wraps it up! This will take a lot of time, of if required we can extend the week to 1.5-2 weeks. After all, you are learning a lot, and I mean A LOT, of different systems here.
