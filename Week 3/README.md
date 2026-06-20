@@ -4,6 +4,7 @@
 ## The Game:
 
 This week, we will be making a tower defense game. First lets talk about what tower defense games are -> 
+
 "Tower defense (TD) is a subgenre of strategy games where the goal is to defend a player's territories or possessions by obstructing the enemy attackers or by stopping enemies from reaching the exits, usually achieved by placing defensive structures on or along their path of attack. This typically means building a variety of different structures that serve to automatically block, impede, attack or destroy enemies." 
 
 Again, a big part of this game is going to be completing the game loop properly. 
