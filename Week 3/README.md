@@ -56,6 +56,8 @@ https://medium.com/@austinjy13/screen-to-world-space-in-unity-for-3d-using-a-ray
 
 Apart from that you are on your own. You are (obviously) free to look up learning resources.
 
+Good luck! 
+
 
 
 
