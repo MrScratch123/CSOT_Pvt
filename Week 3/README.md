@@ -14,10 +14,10 @@ The structure of the game is going to be quite different to your previous games.
 
 ### Basic elements -
 
-* Main menu (try adding a settings button this time) 
-* A level selector in main menu with 3 different levels.
+* Main menu (try adding a settings button this time) (5 points)
+* A level selector in main menu with 3 different levels. (5 points)
 * The levels should be progressively difficult.
-* Bonus : Levels should be locked untill the previous level is beaten.
+* Bonus : Levels should be locked untill the previous level is beaten. (5 points)
 
 ### How the game works -
 
@@ -30,6 +30,8 @@ Here is a beautiful image I drew in paint. The idea is this -
 * Their goal is to reach the end, and your goal is to stop them. 
 * You stop them by placing different towers to shoot the enemies down. 
 
+Working enemies as specified - 15 points.
+
 You can imagine it like plants vs zombies. Killing the enemies give you coins, and those coins can be used to buy more towers.
 
 Buying a tower should work as follows -
@@ -38,6 +40,7 @@ Buying a tower should work as follows -
 * Once you have placed it, the money is deducted.
 * After clicking the button you should be able to escape out of the placing mode using the escape key, in case you change the desicion to buy the tower.
 
+
 Towers can work as follows
 * You have two game objects, a base and a head. 
 * The base stays still and the head rotates towards an enemy and locks onto it
@@ -45,12 +48,16 @@ Towers can work as follows
 
 (You can use Quaternion.LookAt() for looking and raycasts/particles for shooting.)
 
+Working tower buying and shooting - 30 points.
+
 You can make multiple enemies, different healths, different amounts of coins they give upon death, the pattern of their spawning (you can add a boss as always).
 
 * There should be a proper win state and lose state for each level. 
 * Your end point, or your home base should have some health, and for every enemy that reaces the end should give some damage to it. 
 * Losing all the health leads to the lose state.
-* The win state comes from defeating all of the waves of enemies. 
+* The win state comes from defeating all of the waves of enemies.
+
+All specified is necessary and will be awarded 30 points.
 
 This time there will be only one learning resource which I think is important to know - 
 https://medium.com/@austinjy13/screen-to-world-space-in-unity-for-3d-using-a-raycast-878759b2712b
